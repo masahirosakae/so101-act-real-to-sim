@@ -1,0 +1,24 @@
+# Local datasets, training weights, model output, video builds
+.venv*/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.parquet
+*.arrow
+*.mp4.tmp
+.checkpoints/
+checkpoints/
+outputs/
+datasets/
+hf_cache/
+torch_cache/
+logs/
+*.log
+.DS_Store
+Thumbs.db

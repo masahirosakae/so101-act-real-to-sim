@@ -1,0 +1,5 @@
+# Reference runtime (observed environment); NOT a complete lock file.
+# Separate from requirements-sim.txt; use a venv with supported Windows Python.
+lerobot==0.6.1
+# Observed: PyTorch 2.8.0+cu126 (CUDA wheel index/platform required), not installed by this list.
+# Do not blindly install a different torch build: preserve the existing working ACT environment.

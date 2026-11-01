@@ -1,0 +1,9 @@
+{
+  "joint_order": ["shoulder_pan", "shoulder_lift", "elbow_flex", "wrist_flex", "wrist_roll", "gripper"],
+  "arm_units": "degrees",
+  "arm_signs": [1, 1, 1, 1, 1],
+  "arm_offsets_rad": [0, 0, 0, 0, 0],
+  "gripper_mode": "freeze",
+  "gripper_fixed_rad": 0.0,
+  "status": "UNVERIFIED: compare a known recorded SO-101 joint pose before using ACT; if use_degrees=false, arm_units may be range_m100_100"
+}

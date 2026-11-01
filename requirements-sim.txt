@@ -1,0 +1,5 @@
+# Match the locally validated MuJoCo environment; ACT uses a separate venv.
+mujoco==3.2.5
+numpy
+imageio[ffmpeg]
+pillow

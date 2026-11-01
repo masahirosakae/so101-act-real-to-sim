@@ -1,0 +1,9 @@
+Episode=2, samples=450, stride=1
+One-step teacher-forced offline evaluation; no simulator / robot / test success
+Joint                ACT MAE    Hold MAE    ACT/Hold     T Δavg     P Δavg
+shoulder_pan           4.887       1.864      2.6223      1.864      5.479
+shoulder_lift          7.502       2.410     3.11259      2.410      8.972
+elbow_flex             5.497       2.921     1.88155      2.921      7.112
+wrist_flex             1.977       1.219     1.62219      1.219      2.690
+wrist_roll             0.773       0.424     1.82539      0.424      0.732
+gripper                0.029       0.899     0.03276      0.899      0.923
